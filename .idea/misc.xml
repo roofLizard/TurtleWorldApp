@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/MonsterPrototype/MonsterPrototype/app/src/main/res/layout/activity_explore.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/drawable/button_shape.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/drawable/ic_icon_main.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/drawable/ic_icon_turtle_color.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/drawable/ic_icon_turtle_flat.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/drawable/ic_icon_wave_flat.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/drawable/ic_turtle_outline.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/drawable/quiz_button_correct.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/drawable/quiz_button_incorrect.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/drawable/quiz_button_shape.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_assessment1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_assessment2.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_assessment3.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_assessment4.xml" value="0.22" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_assessment_completed.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_assessment_excitement_rating.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_assessment_learning_choice.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_assessment_start.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_explore.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_explore_topic.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_explore_topic_completed.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_goal_set.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_goals.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_quiz.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_quiz_complete.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_quiz_completed.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_quiz_start.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_reset_profile.xml" value="0.22" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_set_goal.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_start_quiz.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_topic.xml" value="0.359375" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/activity_topic_completed.xml" value="0.22" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/card_goal.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/card_topic.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/card_topic_2.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/fragment_assessment_recommendation.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/fragment_explore_topic_slide.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/fragment_explore_topics_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/fragment_goal_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/fragment_slide.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/fragment_topics.xml" value="0.1" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/layout/toolbar_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/decla/AndroidStudioProjects/TurtleWorld/TurtleWorld/TurtleWorld/app/src/main/res/menu/menu_toolbar.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Downloads/Javadocs" />
+    <option name="OTHER_OPTIONS" value="-encoding utf8 -docencoding utf8 -charset utf8." />
+    <option name="OPEN_IN_BROWSER" value="false" />
+    <option name="OPTION_INCLUDE_LIBS" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

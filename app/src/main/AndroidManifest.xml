@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dd.turtleworld">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_turtle_world"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_turtle_world_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".ResetProfileActivity"
+            android:label="@string/reset_profile"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".QuizStartActivity"
+            android:label="@string/quiz"
+            android:parentActivityName=".ExploreTopicCompletedActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".ExploreTopicCompletedActivity"
+            android:label="@string/explore"
+            android:parentActivityName=".ExploreTopicActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".GoalSetActivity"
+            android:label="@string/set_goal"
+            android:parentActivityName=".GoalsActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".GoalsActivity"
+            android:label="@string/goals"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".AssessmentCompletedActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".AssessmentLearningChoiceActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".AssessmentExcitementRatingActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".AssessmentStartActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".QuizCompletedActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/quiz"
+            android:exported="false"
+            android:parentActivityName=".QuizStartActivity" />
+        <activity
+            android:name=".QuizActivity"
+            android:screenOrientation="portrait"
+            android:exported="false"
+            android:label="@string/quiz"
+            android:parentActivityName=".QuizStartActivity" />
+        <activity
+            android:name=".ExploreTopicActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/explore"
+            android:exported="false"
+            android:parentActivityName=".ExploreActivity" />
+        <activity
+            android:name=".ExploreActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/explore"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

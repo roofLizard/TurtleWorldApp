@@ -1,0 +1,77 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">TurtleWorld</string>
+
+    <!-- Buttons -->
+    <string name="home">Home</string>
+    <string name="goals">Goals</string>
+    <string name="explore">Explore</string>
+    <string name="start_quiz">Start quiz</string>
+    <string name="button">Button</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="get_started">Get started</string>
+    <string name="take_quiz">Take quiz</string>
+    <string name="complete_topic">Complete topic</string>
+    <string name="add_goal">Add goal</string>
+    <string name="set_goal">Set goal</string>
+    <string name="retry_quiz">Retry quiz</string>
+    <string name="reset">Reset</string>
+
+    <!-- Readiness to learn assessment -->
+    <string name="welcome">Welcome!</string>
+    <string name="get_ready">Get ready to discover the secret world of turtles!</string>
+    <string name="how_excited">How excited are you to learn about turtles?</string>
+    <string name="what_are_you_most_excited">What are you most excited to learn?</string>
+    <string name="what_do_turtles_eat">Do turtles eat plants?</string>
+    <string name="do_turtles_lay_eggs">Do turtles lay eggs?</string>
+    <string name="do_all_turtles_have_shells">Do all turtles have shells?</string>
+    <string name="excitement_message_excited">That\'s great you\'re excited!</string>
+    <string name="excitement_message_not_excited">That\'s okay that you\'re not too excited</string>
+    <string name="recommendation_message_excited">You should enjoy starting your learning with this:</string>
+    <string name="recommendation_message_not_excited">Try starting with this and see how you feel:</string>
+    <string name="or_start_by_exploring">Or start by exploring the app:</string>
+
+    <!-- Explore -->
+    <string name="why_not_test">Why not test your new knowledge by taking the quiz?</string>
+
+    <!-- Quiz -->
+    <string name="test_your_learning">Test your learning with 3 questions on:</string>
+    <string name="get_at_least_4_correct">Get all 3 correct to complete the quiz</string>
+    <string name="thats_right">Correct!</string>
+    <string name="thats_wrong">Incorrect :(</string>
+    <string name="quiz">Quiz</string>
+    <string name="well_done">Well done!</string>
+    <string name="better_luck_next_time">Better luck next time!</string>
+    <string name="you_scored">You scored:</string>
+
+    <!-- Reset profile -->
+    <string name="reset_profile">Reset profile</string>
+    <string name="reset_info">Resetting your profile will reset all completed topics/quizzes and delete all of your goals</string>
+
+    <!-- Goals -->
+    <string name="new_goal">New goal</string>
+    <string-array name="spinnner_values_choose_goal">
+        <item><i>Choose the type of goal…</i></item>
+        <item>Complete a number of quizzes</item>
+        <item>Engage with a number of topics</item>
+    </string-array>
+    <string-array name="spinnner_values_set_goal_target">
+        <item><i>Set goal target…</i></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <!-- Content descriptors -->
+    <string name="turtle_icon">turtle icon</string>
+    <string name="the_topic_image">The topic image</string>
+    <string name="a_turtle_icon">A turtle icon</string>
+    <string name="a_back_arrow">A back arrow</string>
+    <string name="a_forward_arrow">A forward arrow</string>
+    <string name="a_turtle">A turtle</string>
+    <string name="the_goal_progress_icon">The goal progress icon</string>
+    <string name="the_quiz_result_image">The quiz result image</string>
+
+
+</resources>
